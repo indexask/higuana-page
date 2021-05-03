@@ -1,0 +1,112 @@
+body {
+  background-color: black;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+.tittle {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+.image1 {
+  vertical-align: middle;
+  display: inline-block;
+  width: 500px;
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-bottom: 7px;
+}
+.texto {
+  vertical-align: middle;
+  display: inline-block;
+  color: white;
+  width: 800px;
+  text-align: left;
+  padding-top: 0px;
+  font: normal normal 300 26px/29px Raleway;
+}
+.fondo {
+  background: url(../img/bg-header.jpg);
+  height: 1000px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.caracter {
+  letter-spacing: 0px;
+  font: normal normal medium 40px/47px Raleway;
+  color: white;
+  padding-top: 50px;
+  background-color: #1e1a13;
+  height: 100px;
+  padding-bottom: 0%;
+  margin: 0;
+  text-align: center;
+  font-size: 37px;
+}
+.tabla{
+  list-style-type: none;
+  height: 90px;
+  font-size: 37px;
+  background-color: #1E1A13 ;
+  height: 200px;
+  padding-top: 20px;
+  text-align: center;
+  padding-right: 260px;
+}
+.fab {
+  list-style-type: none;
+  color: white;
+  padding-left: 90px;
+
+}
+.fas {
+  list-style-type: none;
+  color: white;
+  padding-left: 200px;
+}
+#fax {
+  list-style-type: none;
+  color: white;
+  padding-left: 90px;
+
+}
+.fotos{
+  padding-top: 73px;
+  padding-bottom: 73px;
+}
+.visita{
+  padding-top: 15px;
+  color: white;
+  background-color: #1E1A13;
+  height: 60px;
+  font-size: 20px;
+}
+
+.iguana1{
+  background-image: url(../img/iguana-2.jpg);
+  height: 202px;
+  width: 316px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  background-size: 100%;
+  margin-right: 16px;
+  background-size: cover;
+  
+}
+.iguana2{
+  background-image: url(../img/iguana-3.jpg);
+  height: 202px;
+  width: 316px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  background-size: 100%;
+  margin-right: 16px;
+}
+.iguana3{
+  background-image: url(../img/iguana-4.jpg);
+  height: 202px;
+  width: 316px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  background-size: 100%;
+}
